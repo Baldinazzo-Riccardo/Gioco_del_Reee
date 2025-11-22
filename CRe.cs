@@ -29,9 +29,5 @@ namespace GiocoRE
             return $"Il Re {Nome} è sotto attacco.";
         }
 
-        ~CRe()
-        {
-                
-        }
     }
 }
